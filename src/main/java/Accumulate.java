@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class Accumulate {
 
-    private static final String FILE_PATH = "/Users/e175769/java_ex/dracula2.txt";
+    private static final String FILE_PATH = "enetr your path"; 
 
     private static final String SEPARATOR = "( )";
 
